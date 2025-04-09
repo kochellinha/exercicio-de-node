@@ -1,0 +1,5 @@
+123
+Olá, mundo!
+456
+texto com número 789
+321
